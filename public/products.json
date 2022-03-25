@@ -15,17 +15,17 @@
         "price": 45.55,
         "shipping": 5,
         "ratings": 8.5,
-        "img": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/spidermannowayhome_onesheet_1400x2100_he.jpg?itok=ruA2hZJw",
+        "img": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-mannowayhome_lob_crd_03.jpg",
         "edition": "Special Edition",
         "genres": "Science Fiction, Adventure, Action"
     },
     {
         "id": 3,
-        "name": "The Godfather",
+        "name": "No Time To Die",
         "price": 30.55,
         "shipping": 12.99,
         "ratings": 9,
-        "img": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/no-time-to-die-et00110039-29-09-2021-01-44-39.jpg",
         "edition": "Special Edition",
         "genres": "Action, Drama"
     },
@@ -58,5 +58,65 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN5elYkGJhxVWh96iiSk2clc3YiLJ06TdDaDFBJRZAfziUjPJY6ugFwFvEd8UDSS78Tc&usqp=CAU",
         "edition": "Special Edition",
         "genres": "Drama"
+    },
+    {
+        "id": 7,
+        "name": "Coco",
+        "price": 49,
+        "shipping": 9.99,
+        "ratings": 8.6,
+        "img": "https://i.ytimg.com/vi/fBbQZS7lNk8/movieposter_en.jpg",
+        "edition": "Special Edition",
+        "genres": "Animation"
+    },
+    {
+        "id": 8,
+        "name": "Me Before You",
+        "price": 54,
+        "shipping": 9.99,
+        "ratings": 8.8,
+        "img": "https://cinemusefilms.files.wordpress.com/2016/06/87-me-before-you.jpg",
+        "edition": "Special Edition",
+        "genres": "Romance, Drama"
+    },
+    {
+        "id": 9,
+        "name": "Captain America: Civil War",
+        "price": 54,
+        "shipping": 9.99,
+        "ratings": 7.8,
+        "img": "https://www.denofgeek.com/wp-content/uploads/2021/10/captain-america-civil-war-steve-tony-battle.png?fit=1240%2C696",
+        "edition": "Special Edition",
+        "genres": "Adventure, Sci-Fi"
+    },
+    {
+        "id": 10,
+        "name": "Jungle Cruise",
+        "price": 52,
+        "shipping": 9.99,
+        "ratings": 8.5,
+        "img": "https://lumiere-a.akamaihd.net/v1/images/p_junglecruise_21740_v2_bb7f0ae4.jpeg",
+        "edition": "Special Edition",
+        "genres": "Action, Drama"
+    },
+    {
+        "id": 11,
+        "name": "Life of Pi",
+        "price": 48,
+        "shipping": 9.99,
+        "ratings": 8.9,
+        "img": "https://i.ebayimg.com/images/g/TM8AAOxyo4lRkPgy/s-l500.jpg",
+        "edition": "Special Edition",
+        "genres": "Adventure, Drama"
+    },
+    {
+        "id": 12,
+        "name": "Venom: Let There Be Carnage",
+        "price": 54,
+        "shipping": 9.99,
+        "ratings": 7.0,
+        "img": "https://m.media-amazon.com/images/M/MV5BN2I2Yzc2OWMtMWQzYi00ZDcxLTgyOTMtNjBiNzA5Y2QxZDYxXkEyXkFqcGdeQXVyMTM0NTc2NDgw._V1_.jpg",
+        "edition": "Special Edition",
+        "genres": "Action, Adventure"
     }
 ]
