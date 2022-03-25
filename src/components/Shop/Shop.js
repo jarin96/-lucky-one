@@ -41,6 +41,10 @@ const Shop = () => {
                     removeCartItems={removeCartItems}
                     chooseRandom={chooseRandom}></Cart>
             </div>
+            <div className='details'>
+                <p>How React Works?</p>
+            </div>
+
         </div>
     );
 };

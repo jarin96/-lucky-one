@@ -57,3 +57,16 @@
 .btn-cart:hover{
     background-color: #0d161b;
 }
+.details{
+    width: 300px;
+    height: 550px;
+    border: 1px solid #95A0A7;
+    box-shadow: 5px 10px #d8cdcd;
+    border-radius: 8px;
+    background-color: #1C2B35;
+    position: relative;
+    margin: 100px 50px;
+    color: white;
+    margin-top: 30px;
+    margin-right: 30px;
+}
