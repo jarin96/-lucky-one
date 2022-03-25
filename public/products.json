@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "The Dark Knight",
+        "price": 59,
+        "shipping": 14,
+        "ratings": 9.1,
+        "img": "https://m.media-amazon.com/images/I/51r4i5VQK3L._AC_.jpg",
+        "edition": "Special Edition",
+        "genres": "Action, Drama"
+    },
+    {
+        "id": 2,
+        "name": " Spider-Man No Way Home ",
+        "price": 45.55,
+        "shipping": 5,
+        "ratings": 8.5,
+        "img": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/spidermannowayhome_onesheet_1400x2100_he.jpg?itok=ruA2hZJw",
+        "edition": "Special Edition",
+        "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+        "id": 3,
+        "name": "The Godfather",
+        "price": 30.55,
+        "shipping": 12.99,
+        "ratings": 9,
+        "img": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "edition": "Special Edition",
+        "genres": "Action, Drama"
+    },
+    {
+        "id": 4,
+        "name": "Avengers: Infinity War",
+        "price": 59,
+        "shipping": 9.99,
+        "ratings": 8.4,
+        "img": "https://lumiere-a.akamaihd.net/v1/images/p_avengersinfinitywar_19871_cb171514.jpeg?region=0%2C0%2C540%2C810",
+        "edition": "Special Edition",
+        "genres": "Action, Adventure"
+    },
+    {
+        "id": 5,
+        "name": "Joker",
+        "price": 37.75,
+        "shipping": 9.99,
+        "ratings": 8.4,
+        "img": "https://stanforddaily.com/wp-content/uploads/2019/10/Joker-poster.jpg",
+        "edition": "Special Edition",
+        "genres": "Suspense, Drama"
+    },
+    {
+        "id": 6,
+        "name": "Joe Bell",
+        "price": 52,
+        "shipping": 9.99,
+        "ratings": 5.9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN5elYkGJhxVWh96iiSk2clc3YiLJ06TdDaDFBJRZAfziUjPJY6ugFwFvEd8UDSS78Tc&usqp=CAU",
+        "edition": "Special Edition",
+        "genres": "Drama"
+    }
+]
