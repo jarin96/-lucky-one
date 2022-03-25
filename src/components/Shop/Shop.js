@@ -15,6 +15,10 @@ const Shop = () => {
         const newCart = [...cart, product];
         setCart(newCart);
     }
+    const clearCart = () => {
+        return dispatchEvent({ type: "clear" });
+    }
+
     return (
         <div className='shop-container'>
             <div className="products-container">
