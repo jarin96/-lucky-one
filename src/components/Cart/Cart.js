@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
@@ -13,8 +12,8 @@ const Cart = (props) => {
 
     return (
         <div className='cart'>
-            <h3>Order Summary</h3>
-            <h4>Selected Items: {items.length}</h4>
+            <h3>Ordered Movie List</h3>
+            <h4>Selected Movies: {items.length}</h4>
             <h3>Movie Added: {total}</h3>
             <div>
                 <button onClick={chooseRandom} className='button-blue'>Choose 1 For Me</button>
