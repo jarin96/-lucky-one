@@ -15,10 +15,15 @@ const Shop = () => {
         const newCart = [...cart, product];
         setCart(newCart);
     }
-    const clearCart = () => {
-        return dispatchEvent({ type: "clear" });
+    const removeCartItems = () => {
+        setCart([]);
+        console.log('clicked');
     }
-
+    const chooseRandom = () => {
+        const result = Math.floor(Math.random() * cart.length);
+        setCart([cart[result]]);
+        // console.log([cart[result]]);
+    }
     return (
         <div className='shop-container'>
             <div className="products-container">
@@ -27,11 +32,14 @@ const Shop = () => {
                         key={product.id}
                         product={product}
                         handleAddToCart={handleAddToCart}
+
                     ></Product>)
                 }
             </div>
             <div className="cart-container">
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart}
+                    removeCartItems={removeCartItems}
+                    chooseRandom={chooseRandom}></Cart>
             </div>
         </div>
     );
