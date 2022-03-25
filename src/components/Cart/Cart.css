@@ -1,0 +1,22 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 25px;
+}
+.cart p{
+    font-weight: 400px;
+    color: black;
+    font-size: large;
+}
+.button-blue{
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(18, 18, 85);
+}
+.button-red{
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(85, 18, 21);
+}

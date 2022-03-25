@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "The Dark Knight",
+        "name": "The Dark Knight ",
         "price": 59,
         "shipping": 14,
         "ratings": 9.1,
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "name": "No Time To Die",
+        "name": "No Time To Die ",
         "price": 30.55,
         "shipping": 12.99,
         "ratings": 9,
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "name": "Avengers: Infinity War",
+        "name": "Avengers: Infinity War ",
         "price": 59,
         "shipping": 9.99,
         "ratings": 8.4,
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "name": "Joker",
+        "name": "Joker ",
         "price": 37.75,
         "shipping": 9.99,
         "ratings": 8.4,
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "name": "Joe Bell",
+        "name": "Joe Bell ",
         "price": 52,
         "shipping": 9.99,
         "ratings": 5.9,
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "name": "Coco",
+        "name": "Coco ",
         "price": 49,
         "shipping": 9.99,
         "ratings": 8.6,
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "name": "Me Before You",
+        "name": "Me Before You ",
         "price": 54,
         "shipping": 9.99,
         "ratings": 8.8,
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "name": "Captain America: Civil War",
+        "name": "Captain America: Civil War ",
         "price": 54,
         "shipping": 9.99,
         "ratings": 7.8,
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "name": "Jungle Cruise",
+        "name": "Jungle Cruise ",
         "price": 52,
         "shipping": 9.99,
         "ratings": 8.5,
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "name": "Life of Pi",
+        "name": "Life of Pi ",
         "price": 48,
         "shipping": 9.99,
         "ratings": 8.9,
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "name": "Venom: Let There Be Carnage",
+        "name": "Venom: Let There Be Carnage ",
         "price": 54,
         "shipping": 9.99,
         "ratings": 7.0,
