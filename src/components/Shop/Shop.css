@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
@@ -21,8 +24,10 @@
 @media screen and (max-width:1100px) {
     .products-container{
         grid-template-columns: repeat(1, 1fr);
+        margin-left: 30px;
     }
-    .cart-container{
+    .cart{
         grid-template-columns: repeat(1, 1fr);
+        margin-right: 5px;
     }
 }
