@@ -30,10 +30,13 @@
     color: #dad8d8;
     margin-top: 7px;
 }
+.icon{
+    color: rgb(240, 185, 45)
+}
 .product img{
    width: 286px;
    height: 286px;
-   border-radius: 100px;
+   border-radius: 110px;
    margin: 7px;
    transition: var(--motion);
 }
